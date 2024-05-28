@@ -1,0 +1,17 @@
+* {
+  font-family: var(--font);
+}
+
+body {
+  background-color: #f6f4f4;
+}
+
+#header {
+  background-image: url("assets/img/stark.webp");
+  border-radius: 25px;
+  height: 590px;
+}
+
+footer ul li {
+  margin-bottom: 10px;
+}/*# sourceMappingURL=main.css.map */
